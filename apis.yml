@@ -50,10 +50,20 @@ tags:
 - Company
 - Telecommunications
 - Revenue Assurance
+- Fraud Prevention
+- Analytics
+- Data Monetization
+- Acquired
+- Defunct
+tags_raw:
+- Company
+- Telecommunications
+- Revenue Assurance
 - Fraud Management
 - Analytics
 - Data Monetization
 - Acquired
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
